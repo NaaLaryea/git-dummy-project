@@ -17,3 +17,4 @@ class UserTest < ActiveSupport::TestCase
     assert_not user.valid?
   end
 end
+# track any errors
