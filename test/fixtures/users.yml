@@ -4,6 +4,4 @@ one:
   email: one@one.org
   password_digest: hashed_password
 
-# two:
-#   email: MyString
-#   password_digest: MyString
+
